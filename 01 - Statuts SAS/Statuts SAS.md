@@ -193,7 +193,7 @@ Toute cession d'actions, même entre Associés, doit respecter les droits de pr�
 
 En outre, en cas de non-exercice de ces droits de préemption, toute cession au profit d'un tiers, autre qu'un associé, doit être soumise au droit d'agrément stipulé à l'article [11.3](#art11_3).
 
-### 11.2. --- Préemption [art11_2]
+### 11.2. Préemption [art11_2]
 
 #### 11.2.1. Domaine d'application
 
@@ -231,7 +231,7 @@ Faute pour l'Associé Cédant de procéder à cette cession dans les délais ci-
 
 A titre de règle pratique, l'ensemble des Associés pourra déroger au formalisme et aux délais ci-dessus mentionnés par un acte sous seing privé écrit signé de tous les Associés et par le Président.
 
-### 11.3. --- Agrément [art11_3]
+### 11.3. Agrément [art11_3]
 
 Dans le cas où les droits de préemption décrits ci-dessus ne seraient pas exercés pour la totalité des actions offertes, l'Associé Cédant en avisera sans délai le Président.
 
@@ -343,11 +343,11 @@ La personne morale Président est représentée par son représentant légal sau
 
 Lorsqu'une personne morale est nommée Président, ses dirigeants sont soumis aux mêmes conditions et obligations et encourent les mêmes responsabilités civile et pénale que s'ils étaient Président en leur propre nom, sans préjudice de la responsabilité solidaire de la personne morale qu'ils dirigent.
 
-### 15.1.1. Nomination --- Renouvellement [art15_1_1]
+#### 15.1.1. Nomination --- Renouvellement [art15_1_1]
 
 Exception faite de la première nomination par les présents statuts, le Président est nommé ou renouvelé par une décision collective des Associés délibérant dans les conditions prévues pour les décisions ordinaires. Les nominations suivantes ne feront pas l'objet de modifications des présents statuts et seront valablement constatées par le Procès-verbal de l'Assemblée Générale consignant la délibération.
 
-### 15.1.2. Durée du mandat
+#### 15.1.2. Durée du mandat
 
 Sauf décision contraire le Président est désigné sans limitation de durée.
 
@@ -355,19 +355,19 @@ Si toutefois cette durée venait à être limitée, le mandat prendrait alors fi
 
 Les fonctions du Président prennent fin soit par le décès, la démission, la révocation, l'expiration de son mandat, soit par l'ouverture à l'encontre de celui-ci d'une procédure de redressement ou de liquidation judiciaire.
 
-### 15.1.3. Démission --- Révocation
+#### 15.1.3. Démission --- Révocation
 
 Le Président peut démissionner de son mandat sous réserve de respecter un préavis de Trois (3) mois lequel pourra être réduit lors de la consultation de la collectivité des Associés qui aura à statuer sur le remplacement du Président démissionnaire. La démission du Président n'est recevable que si elle est adressée à chacun des Associés par lettre recommandée avec avis de réception ou tout autre procédé équivalent.
 
 Le Président sera révocable à tout moment pour justes motifs par décision de la collectivité des Associés délibérant dans les conditions prévues pour les décisions extraordinaires, sans que, pour autant, la nouvelle nomination emporte modification des statuts tel que rappelé à l'article [15.1.1](#art15_1_1) ci-dessus.
 
-### 15.1.4. Rémunération
+#### 15.1.4. Rémunération
 
 Le Président peut recevoir une rémunération en compensation de la responsabilité et de la charge attachées à ses fonctions dont les modalités de fixation et de règlement sont déterminées par une décision de l'Assemblée Générale. Cette rémunération peut consister en un traitement fixe ou proportionnel ou à la fois fixe et proportionnel au bénéfice ou au chiffre d'affaires. En outre, le Président est remboursé de ses frais de représentation et de déplacement sur justification. Cette rémunération et ces frais sont comptabilisés en frais généraux de la Société.
 
 Le Président, personne physique, ou le représentant de la personne morale Président, peut être également lié à la Société par un contrat de travail à condition que ce contrat corresponde à un emploi effectif.
 
-### 15.1.5. Pouvoirs du Président
+#### 15.1.5. Pouvoirs du Président
 
 Dans les rapports avec les tiers, le Président représente la Société et est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la Société dans les limites de son objet social.
 
