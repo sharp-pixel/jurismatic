@@ -6,7 +6,7 @@
 
 **Monsieur ou Madame** **[nom et prénom]**
 
-Né(e) le **[date de naissance]**à **[lieu de naissance]**
+Né(e) le **[date de naissance]** à **[lieu de naissance]**
 
 De nationalité **[nationalité]**
 
@@ -14,23 +14,23 @@ Exerçant la profession de **[profession]**
 
 Demeurant **[adresse du domicile]**
 
-**Ci-après dénommé(e) le « Cédant  »,**
+**Ci-après dénommé(e) le « Cédant »,**
 
 **D'une part,**
 
 **ET :**
 
-**La Société [****nom de la société]**
+**La Société [nom de la société]**
 
-**[****forme de la société****]** au capital de **[capital exprimé en chiffres****]** euros
+**[forme de la société]** au capital de **[capital exprimé en chiffres]** euros
 
 Immatriculée au RCS de **[ville]** sous le numéro **[n° du RCS]**
 
 Dont le siège social est situé **[adresse complète du siège social]**
 
-Représentée par **Monsieur ou Madame** **[Nom et prénom]**en qualité de**[Président ou Gérant ou Directeur Général****]**, dûment habilité aux fins des présentes,
+Représentée par **Monsieur ou Madame** **[Nom et prénom]** en qualité de **[Président ou Gérant ou Directeur Général]**, dûment habilité aux fins des présentes,
 
-**Ci-après dénommée le  « Cessionnaire »,**
+**Ci-après dénommée le « Cessionnaire »,**
 
 **D'autre part,**
 
@@ -129,6 +129,3 @@ En deux exemplaires originaux.
 | **Pour le Cédant**** [****Nom et prénom du signataire]** |
  | **Pour le Cessionnaire**** [Nom et prénom du signataire]** |
 | --- | --- | --- |
-
-5
-
