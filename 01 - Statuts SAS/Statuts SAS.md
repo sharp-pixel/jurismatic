@@ -45,15 +45,12 @@ Demeurant **[adresse]**
 Célibataire / Pacsé / Marié sous le régime de la communauté de **[régime]**
 
 # TITRE I. FORME --- OBJET --- DENOMINATION --- SIEGE SOCIAL --- DUREE --- EXERCICE SOCIAL
-
 ## ARTICLE 1 --- FORME
-
 La Société est une société par actions simplifiée régie par les lois et règlements en vigueur et en particulier par les articles [L. 227-1 à L. 227-20](http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006146048&cidTexte=LEGITEXT000005634379) du Code de commerce, ainsi que par les présents statuts.
 
 Elle fonctionne indifféremment sous la même forme avec un ou plusieurs Associés. Elle ne peut faire appel public à l'épargne sous sa forme actuelle de Société par actions simplifiée.
 
 ## ARTICLE 2 --- OBJET
-
 La Société a pour objet, directement ou indirectement en France et en tous pays :
 
 - La conception, l'édition, le développement et l'exploitation de sites internet et mobiles, dans tous domaines d'activités, permettant notamment **[préciser]** ;
@@ -77,19 +74,16 @@ La Société a pour objet, directement ou indirectement en France et en tous pay
 - Et plus généralement, toutes opérations de quelque nature qu'elles soient, mobilières ou immobilières, commerciales, financières ou industrielles pouvant se rattacher directement ou indirectement à l'objet social et à tous objets similaires, connexes ou complémentaires, de nature à favoriser son extension ou son développement.
 
 ## ARTICLE 3 --- DENOMINATION
-
 La Société a pour dénomination sociale : « **[nom]** ».
 
 Dans tous les actes et documents émanant de la Société et destinés aux tiers, la dénomination sera précédée ou suivie immédiatement des mots écrits lisiblement « Société par Actions Simplifiée » ou des initiales « S.A.S. », de l'énonciation du montant du capital social, ainsi que le numéro d'identification SIREN et la mention RCS suivie du nom de la ville où se trouve le greffe où elle sera immatriculée.
 
 ## ARTICLE 4 --- SIEGE SOCIAL
-
 Le siège social est fixé **[adresse]**, situé dans le ressort du Tribunal de commerce de **[lieu]**, lieu de son immatriculation au Registre du Commerce et des Sociétés.
 
 Le transfert du siège social, la création, le déplacement, la fermeture des succursales, agences et dépôts situés en tous lieux ou à l'étranger interviennent sur décision du Président, sous réserve de ratification par l'Associé unique ou la collectivité des Associés délibérant dans les conditions prévues pour les décisions ordinaires.
 
 ## ARTICLE 5 --- DUREE [art5]
-
 La durée de la Société a été fixée lors de sa constitution à Quatre Vingt Dix Neuf (99) années, à compter de son immatriculation au Registre du Commerce, sauf dissolution anticipée ou prorogation.
 
 Cette durée peut, par décision de l'Associé unique ou la collectivité des Associés délibérant dans les conditions prévues pour les décisions extraordinaires, être prorogée une ou plusieurs fois sans que chaque prorogation puisse excéder Quatre Vingt Dix Neuf (99) ans.
@@ -103,9 +97,7 @@ Exceptionnellement, le premier exercice social comprend le temps écoulé depuis
 En outre, les actes accomplis pour son compte pendant la période de constitution et repris par la Société seront rattachés à cet exercice.
 
 # TITRE II. APPORTS --- CAPITAL SOCIAL
-
 ## ARTICLE 6 --- APPORTS
-
 Toutes les actions d'origine formant le capital initial représentent des apports en numéraire et ont été, dès avant ce jour, intégralement souscrites et libérées en totalité.
 
 Total des apports formant le capital social initial : **[montant en chiffres]** (**[montant en lettres]**) euros, correspondant à **[nombre en chiffres]** (**[nombre en lettres]**) actions de 1 (un) euro chacune, souscrites en totalité et libérées de la totalité de leur valeur nominale.
@@ -117,14 +109,12 @@ Monsieur/Madame **[Prénom Nom]** déclare, en raison de l'article [1832-2](http
 Son épouse (époux), Madame/Monsieur **[Prénom Nom]**, a d'ores et déjà et par acte séparé, déclaré qu'il consentait à l'apport de son conjoint, mais renonçait à devenir personnellement associée de la Société.
 
 ## ARTICLE 7 --- CAPITAL SOCIAL
-
 Le capital social est fixé à la somme de **[montant en chiffres]** (**[montant en lettres]**) euros, divisé en **[nombre en chiffres]** (**[nombre en lettres]**) actions égales de **[montant en chiffres]** (**[montant en lettres]**) euro, de même catégorie et libérées en totalité de leur valeur nominale.
 
 ## ARTICLE 8 --- MODIFICATIONS DU CAPITAL SOCIAL
-
 Le capital social peut être augmenté, réduit ou amorti conformément aux lois et règlements en vigueur, dans le respect des éventuelles obligations pouvant résulter du pacte d'Associés.
 
-I - Le capital social peut être augmenté, soit par l'émission d'actions nouvelles, soit par élévation du montant nominal des actions existantes.
+**I ---** Le capital social peut être augmenté, soit par l'émission d'actions nouvelles, soit par élévation du montant nominal des actions existantes.
 
 L'émission d'actions nouvelles peut résulter :
 
@@ -145,14 +135,13 @@ En outre, chaque Associé peut, sous certaines conditions, renoncer individuelle
 
 Le droit à l'attribution d'actions nouvelles, à la suite de l'incorporation au capital de réserves, bénéfices ou primes d'émission appartient au nu-propriétaire, sous réserve des droits de l'usufruitier.
 
-II - La collectivité des Associés délibérant dans les conditions prévues pour les décisions extraordinaires peut aussi décider ou autoriser la réduction du capital social pour telle cause et de telle manière que ce soit, notamment pour cause de pertes ou par voie de remboursement ou de rachat partiels des actions, de réduction de leur nombre ou de leur valeur nominale, le tout dans les limites et sous les réserves fixées par la loi et, en aucun cas, la réduction de capital ne peut porter atteinte à l'égalité des Associés.
+**II ---** La collectivité des Associés délibérant dans les conditions prévues pour les décisions extraordinaires peut aussi décider ou autoriser la réduction du capital social pour telle cause et de telle manière que ce soit, notamment pour cause de pertes ou par voie de remboursement ou de rachat partiels des actions, de réduction de leur nombre ou de leur valeur nominale, le tout dans les limites et sous les réserves fixées par la loi et, en aucun cas, la réduction de capital ne peut porter atteinte à l'égalité des Associés.
 
-III - La collectivité des Associés délibérant dans les conditions prévues pour les décisions extraordinaires peut également décider d'amortir tout ou partie du capital social et substituer aux actions de capital des actions de jouissance partiellement ou totalement amorties, le tout en application des articles [L. 225-198 et suivants](http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006178840&cidTexte=LEGITEXT000005634379) du Code de commerce.
+**III ---** La collectivité des Associés délibérant dans les conditions prévues pour les décisions extraordinaires peut également décider d'amortir tout ou partie du capital social et substituer aux actions de capital des actions de jouissance partiellement ou totalement amorties, le tout en application des articles [L. 225-198 et suivants](http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006178840&cidTexte=LEGITEXT000005634379) du Code de commerce.
 
-IV - Enfin, la collectivité des Associés décidant l'augmentation ou la réduction du capital peut déléguer au Président les pouvoirs nécessaires à l'effet de la réaliser.
+**IV ---** Enfin, la collectivité des Associés décidant l'augmentation ou la réduction du capital peut déléguer au Président les pouvoirs nécessaires à l'effet de la réaliser.
 
 ## ARTICLE 9 --- LIBERATION DES ACTIONS
-
 Lors de la constitution de la Société, les actions de numéraire ont été libérées, lors de la souscription, de la moitié au moins de leur valeur nominale.
 
 Lors d'une augmentation de capital, les actions de numéraire sont libérées, lors de la souscription, d'un quart au moins de leur valeur nominale et, le cas échéant, de la totalité de la prime d'émission.
@@ -166,7 +155,6 @@ Tout retard dans le versement des sommes dues sur le montant non libéré des ac
 Conformément aux dispositions de l'article [1843-3](http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006444153&cidTexte=LEGITEXT000006070721) du Code civil, lorsqu'il n'a pas été procédé dans un délai légal aux appels de fonds pour réaliser la libération intégrale du capital, tout intéressé peut demander au Président du Tribunal statuant en référé soit d'enjoindre sous astreinte aux administrateurs, gérants et dirigeants de procéder à ces appels de fonds, soit de désigner un mandataire chargé de procéder à cette formalités.
 
 ## ARTICLE 10 --- FORME DES ACTIONS
-
 Les actions émises par la Société sont obligatoirement nominatives.
 
 La propriété des actions résulte de leur inscription en compte individuel au nom du ou des titulaires sur des comptes et registres tenus à cet effet par la Société au siège social.
@@ -174,7 +162,6 @@ La propriété des actions résulte de leur inscription en compte individuel au 
 A la demande d'un Associé, une attestation d'inscription en compte lui sera délivrée par la Société.
 
 ## ARTICLE 11 --- TRANSMISSION DES ACTIONS [art11]
-
 ### 11.1. La propriété des actions résulte de leur inscription en compte individuel au nom du ou des titulaires sur les registres tenus à cet effet.
 
 La cession des actions s'opère, à l'égard des tiers et de la Société, par un ordre de mouvement de compte à compte signé du cédant ou de son mandataire. Le mouvement est mentionné sur ces registres.
@@ -194,13 +181,10 @@ Toute cession d'actions, même entre Associés, doit respecter les droits de pr�
 En outre, en cas de non-exercice de ces droits de préemption, toute cession au profit d'un tiers, autre qu'un associé, doit être soumise au droit d'agrément stipulé à l'article [11.3](#art11_3).
 
 ### 11.2. Préemption [art11_2]
-
 #### 11.2.1. Domaine d'application
-
 Dans l'hypothèse où l'un des Associés envisagerait de céder tout ou partie des actions qu'il détient dans la Société, d'en disposer au profit d'un tiers (ci-après le « Tiers Acquéreur ») ou d'un Associé (ci-après « l'Associé Acquéreur »), à titre onéreux ou gratuit, alors même s'agissant d'une cession qu'elle aurait lieu par voie d'adjudication publique en vertu d'une décision de justice, ou par voie d'apport en Société, d'apport partiel d'actif, de fusion ou de scission, les autres Associés bénéficieront alors d'un droit de préemption irréductible dans les conditions précisées ci-dessous.
 
 #### 11.2.2. Conditions d'exercice du droit de préemption [art11_2_2]
-
 Chaque Associé consent à chacun des autres Associés, un droit de préemption en cas de cession de tout ou partie des actions qu'il détient ou détiendra dans la Société, qui vaut promesse irrévocable de cession de ces mêmes actions aux autres Associés, aux mêmes conditions et selon les mêmes modalités que la cession projetée (ci-après, le « Droit de Préemption »).
 
 En conséquence, les Associés Cédants s'engagent, dès à présent, à céder leurs actions aux bénéficiaires du Droit de Préemption, si ceux-ci choisissent de l'exercer.
@@ -232,7 +216,6 @@ Faute pour l'Associé Cédant de procéder à cette cession dans les délais ci-
 A titre de règle pratique, l'ensemble des Associés pourra déroger au formalisme et aux délais ci-dessus mentionnés par un acte sous seing privé écrit signé de tous les Associés et par le Président.
 
 ### 11.3. Agrément [art11_3]
-
 Dans le cas où les droits de préemption décrits ci-dessus ne seraient pas exercés pour la totalité des actions offertes, l'Associé Cédant en avisera sans délai le Président.
 
 Si le cessionnaire pressenti est un tiers, la cession sera alors soumise à l'agrément de l'Assemblée Générale Extraordinaire des Associés dans les conditions ci-après, et la Notification Initiale visée à l'article [11.2.2](#art11_2_2) ci-dessus, tiendra lieu de notification.
@@ -278,9 +261,7 @@ Faute par le cédant de se présenter dans ce délai, ou de notifier dans le mê
 **9 ---** A titre de règle pratique, l'ensemble des Associés pourra déroger au formalisme et aux délais ci-dessus mentionnés par un acte sous seing privé écrit signé de tous les Associés et le Président.
 
 ## ARTICLE 12 --- DROITS ET OBLIGATIONS ATTACHES AUX ACTIONS
-
 ### 12.1. Droits et obligations générales
-
 Chaque action donne droit dans les bénéfices, l'actif social et le boni de liquidation à une part déterminée par les présents statuts.
 
 Elle donne en outre le droit au vote et à la représentation dans les délibérations, ainsi que le droit d'être informé sur la marche de la Société et d'obtenir communication de documents sociaux aux époques et dans les conditions prévues par les statuts.
@@ -294,15 +275,12 @@ La propriété d'une action emporte de plein droit adhésion aux statuts de la S
 Chaque fois qu'il sera nécessaire de posséder un certain nombre d'actions pour exercer un droit quelconque, les propriétaires qui ne possèdent pas ce nombre auront à faire leur affaire personnelle du groupement, et éventuellement de l'achat ou de la vente du nombre d'actions nécessaires.
 
 ### 12.2. Droit de vote
-
 Le droit de vote attaché aux actions de capital ou de jouissance est proportionnel à la quotité de capital qu'elles représentent et chaque action donne droit à une voix.
 
 ### 12.3. Droits dans les bénéfices et sur l'actif social
-
 Toute action donne droit à une part proportionnelle à la quotité de capital qu'elle représente dans les bénéfices et les réserves ou dans l'actif social lors de toute distribution, amortissement ou répartition en cours comme en cas de liquidation, sous réserve de l'application des éventuelles dispositions du pacte d'Associés.
 
 ## ARTICLE 13 --- INDIVISIBILITE DES ACTIONS
-
 Les actions sont indivisibles à l'égard de la Société.
 
 Les Associés propriétaires indivis d'actions sont tenus de se faire représenter auprès de la Société par un seul d'entre eux considéré comme seul propriétaire, ou par un mandataire unique ; en cas de désaccord, le mandataire unique peut être désigné à la demande de l'indivisaire le plus diligent.
@@ -310,7 +288,6 @@ Les Associés propriétaires indivis d'actions sont tenus de se faire représent
 La désignation du représentant de l'indivision doit être notifiée à la Société dans le mois de la survenance de l'indivision. Toute modification dans la personne du représentant de l'indivision n'aura d'effet, vis-à-vis de la Société, qu'à l'expiration d'un délai d'un mois à compter de sa notification à la Société, justifiant de la régularité de la modification intervenue.
 
 ## ARTICLE 14 --- NUE PROPRIETE --- USUFRUIT
-
 Sauf convention contraire notifiée à la Société, les Associés détenant l'usufruit d'actions représentent valablement les Associés détenant la nue-propriété ; toutefois, le droit de vote appartient à l'Associé détenant l'usufruit pour les délibérations concernant les décisions collectives ordinaires et à l'Associé détenant la nue-propriété pour les délibérations concernant les décisions collectives extraordinaires.
 
 Cependant, les Associés concernés peuvent convenir de toute autre répartition du droit de vote aux consultations collectives. La convention est notifiée par lettre recommandée avec avis de réception ou tout autre procédé équivalent à la Société, qui sera tenue d'appliquer cette convention pour toute consultation collective qui aurait lieu après l'expiration d'un délai d'un mois suivant l'envoi de cette lettre.
@@ -334,9 +311,7 @@ Les actions nouvelles appartiennent au nu-propriétaire pour la nue-propriété 
 En cas de remise en gage par un Associé de ses actions, l'Associé débiteur continue de représenter seul ces actions.
 
 ## ARTICLE 15 --- DIRECTION DE LA SOCIETE
-
 ### 15.1. Président
-
 La Société est dirigée et représentée à l'égard des tiers par un Président qui est soit une personne physique associée ou non, salariée ou non de la Société, soit une personne morale associée ou non de la Société.
 
 La personne morale Président est représentée par son représentant légal sauf si, lors de sa nomination ou à tout moment en cours de mandat, elle désigne une personne spécialement habilitée à la représenter en qualité de représentant. Le nom et les qualités de ce représentant seront notifiés à la Société. Si la personne morale Président met fin aux fonctions du représentant, la cessation des fonctions ne sera opposable à la Société qu'à compter de la notification qui lui en sera faite contenant la désignation d'un nouveau représentant personne physique.
@@ -344,11 +319,9 @@ La personne morale Président est représentée par son représentant légal sau
 Lorsqu'une personne morale est nommée Président, ses dirigeants sont soumis aux mêmes conditions et obligations et encourent les mêmes responsabilités civile et pénale que s'ils étaient Président en leur propre nom, sans préjudice de la responsabilité solidaire de la personne morale qu'ils dirigent.
 
 #### 15.1.1. Nomination --- Renouvellement [art15_1_1]
-
 Exception faite de la première nomination par les présents statuts, le Président est nommé ou renouvelé par une décision collective des Associés délibérant dans les conditions prévues pour les décisions ordinaires. Les nominations suivantes ne feront pas l'objet de modifications des présents statuts et seront valablement constatées par le Procès-verbal de l'Assemblée Générale consignant la délibération.
 
 #### 15.1.2. Durée du mandat
-
 Sauf décision contraire le Président est désigné sans limitation de durée.
 
 Si toutefois cette durée venait à être limitée, le mandat prendrait alors fin à l'issue de la consultation annuelle de la collectivité des Associés appelée à statuer sur les comptes annuels de l'exercice écoulé et tenue dans l'année au cours de laquelle expire son mandat.
@@ -356,19 +329,16 @@ Si toutefois cette durée venait à être limitée, le mandat prendrait alors fi
 Les fonctions du Président prennent fin soit par le décès, la démission, la révocation, l'expiration de son mandat, soit par l'ouverture à l'encontre de celui-ci d'une procédure de redressement ou de liquidation judiciaire.
 
 #### 15.1.3. Démission --- Révocation
-
 Le Président peut démissionner de son mandat sous réserve de respecter un préavis de Trois (3) mois lequel pourra être réduit lors de la consultation de la collectivité des Associés qui aura à statuer sur le remplacement du Président démissionnaire. La démission du Président n'est recevable que si elle est adressée à chacun des Associés par lettre recommandée avec avis de réception ou tout autre procédé équivalent.
 
 Le Président sera révocable à tout moment pour justes motifs par décision de la collectivité des Associés délibérant dans les conditions prévues pour les décisions extraordinaires, sans que, pour autant, la nouvelle nomination emporte modification des statuts tel que rappelé à l'article [15.1.1](#art15_1_1) ci-dessus.
 
 #### 15.1.4. Rémunération
-
 Le Président peut recevoir une rémunération en compensation de la responsabilité et de la charge attachées à ses fonctions dont les modalités de fixation et de règlement sont déterminées par une décision de l'Assemblée Générale. Cette rémunération peut consister en un traitement fixe ou proportionnel ou à la fois fixe et proportionnel au bénéfice ou au chiffre d'affaires. En outre, le Président est remboursé de ses frais de représentation et de déplacement sur justification. Cette rémunération et ces frais sont comptabilisés en frais généraux de la Société.
 
 Le Président, personne physique, ou le représentant de la personne morale Président, peut être également lié à la Société par un contrat de travail à condition que ce contrat corresponde à un emploi effectif.
 
 #### 15.1.5. Pouvoirs du Président
-
 Dans les rapports avec les tiers, le Président représente la Société et est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la Société dans les limites de son objet social.
 
 Les dispositions des présents statuts limitant les pouvoirs du Président sont inopposables aux tiers.
@@ -382,9 +352,7 @@ Le Président dirige et administre la Société. Il est investi des pouvoirs les
 Le Président peut déléguer à toute personne de son choix certains de ses pouvoirs pour l'exercice de fonctions spécifiques ou l'accomplissement de certains actes.
 
 ### 15.2. Directeur Général et/ou Directeur Général Délégué
-
 #### 15.2.1. Nomination
-
 Sur proposition du Président, la collectivité des Associés délibérant dans les conditions prévues pour les décisions ordinaires peut nommer une ou plusieurs personne(s) physique ou morale, salariée ou non, chargée d'assister le Président et portant le titre de Directeur Général et/ou de Directeur Général Délégué.
 
 La personne morale Directeur Général ou Directeur Général Délégué est représentée par son représentant légal sauf si lors de sa nomination ou à tout moment en cours de mandat, elle désigne une personne spécialement habilitée à la représenter en qualité de représentant. Le nom et les qualités de ce représentant seront notifiés à la Société. Si la personne morale Directeur Général met fin aux fonctions du représentant, la cessation des fonctions ne sera opposable à la Société qu'à compter de la notification qui lui en sera faite contenant la désignation d'un nouveau représentant personne physique.
@@ -394,7 +362,6 @@ Lorsqu'une personne morale est nommée Directeur Général ou Directeur Généra
 Le Directeur Général et/ou le Directeur Général Délégué, personne physique, peuvent être lié à la Société par un contrat de travail à condition que ce contrat corresponde à un emploi effectif.
 
 #### 15.2.2. Durée des fonctions
-
 Sauf décision contraire, le Directeur Général et/ou le Directeur Général Délégué sont nommés sans limitation de durée, leurs mandats ne peuvent néanmoins excéder la durée du mandat du Président.
 
 Si cette durée est limitée, leurs mandats prennent fin à l'issue de la consultation annuelle de la collectivité des Associés appelée à statuer sur les comptes annuels de l'exercice écoulé et tenue dans l'année au cours de laquelle expire son mandat.
@@ -404,7 +371,6 @@ En cas de décès, démission ou empêchement du Président, le Directeur Géné
 Les mandats du Directeur Général et du Directeur Général Délégué sont renouvelables sans limitation.
 
 #### 15.2.3. Démission --- Révocation
-
 Les fonctions de Directeur Général et de Directeur Général Délégué prennent fin soit par le décès, la démission, la révocation, l'expiration de leur mandat, soit par l'ouverture à l'encontre de l'un d'entre eux d'une procédure de redressement ou de liquidation judiciaires.
 
 Le Directeur Général et le Directeur Général Délégué peuvent démissionner de leur mandat sous réserve de respecter un préavis de Trois (3) mois lequel pourra être réduit lors de la consultation de la collectivité des Associés qui aura à statuer sur leur remplacement.
@@ -412,13 +378,11 @@ Le Directeur Général et le Directeur Général Délégué peuvent démissionne
 Le Directeur Général et le Directeur Général Délégué sont révocables à tout moment, sur justes motifs, par décision collective des Associés délibérant dans les conditions prévues pour les décisions extraordinaires.
 
 #### 15.2.4. Rémunération
-
 Le Directeur Général et/ou le Directeur Général Délégué peuvent recevoir une rémunération en compensation de la responsabilité et de la charge attachées à leurs fonctions dont les modalités de fixation et de règlement sont déterminées par une décision collective des Associés délibérant dans les conditions prévues pour les décisions ordinaires.
 
 Le Directeur Général et/ou le Directeur Général Délégué peuvent cumuler leurs fonctions avec un contrat de travail effectif. Le contrat de travail pourra être préexistant ou consenti par le Président après leur nomination en qualité de directeurs.
 
 #### 15.2.5. Pouvoirs des Directeurs Généraux
-
 Sauf limitation fixée par la décision de nomination ou par une décision ultérieure, le Directeur Général et le Directeur Général Délégué disposent des mêmes pouvoirs de direction que le Président.
 
 Le Directeur Général et le Directeur Général Délégué disposent du pouvoir de représenter la Société à l'égard des tiers.
@@ -426,7 +390,6 @@ Le Directeur Général et le Directeur Général Délégué disposent du pouvoir
 Il est précisé que la Société est engagée même par les actes du Directeur Général et du Directeur Général Délégué qui ne relèvent pas de l'objet social, sauf si elle apporte la preuve que le tiers avait connaissance du dépassement de l'objet social ou qu'il ne pouvait l'ignorer compte tenu des circonstances, la seule publication des statuts ne pouvant suffire à constituer cette preuve.
 
 ## ARTICLE 16 --- CONVENTIONS ENTRE LA SOCIETE, SES DIRIGEANTS OU SES ASSOCIES
-
 En application des dispositions de l'article [L. 227-10](http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000005634379&idArticle=LEGIARTI000006227063) du Code de commerce, toutes conventions, autres que celles portant sur des opérations courantes conclues à des conditions normales, intervenues directement ou par personne interposée entre la Société et son Président, l'un de ses dirigeants, l'un de ses Associés disposant d'une fraction des droits de vote supérieure à 10 % ou, s'il s'agit d'une Société associée, la Société la contrôlant au sens de l'article [L. 233-3](http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000005634379&idArticle=LEGIARTI000006229187) dudit code, doivent être portées à la connaissance du commissaire aux comptes.
 
 Le commissaire aux comptes établit un rapport sur les conventions conclues au cours de l'exercice écoulé ; la collectivité des Associés statue chaque année sur ce rapport lors de sa consultation annuelle sur les comptes sociaux dudit exercice écoulé.
@@ -436,7 +399,6 @@ En application des dispositions de l'article [L. 227-11](http://www.legifrance.g
 Les conventions non approuvées produisent néanmoins leurs effets, à charge pour la personne intéressée et, éventuellement, pour le Président et les autres dirigeants d'en supporter les conséquences dommageables pour la Société.
 
 ## ARTICLE 17 --- COMMISSAIRES AUX COMPTES
-
 Lorsque les conditions légales sont réunies, le contrôle de la Société est exercé par un ou plusieurs commissaires aux comptes titulaires et suppléants exerçant leur mission conformément à la loi et désignés par décision de la collectivité des Associés délibérant dans les conditions prévues pour les décisions ordinaires.
 
 Les commissaires aux comptes sont nommés pour six exercices sociaux ; leurs fonctions expirent à l'issue de la consultation annuelle de la collectivité des Associés appelée à statuer sur les comptes du sixième exercice social.
@@ -444,7 +406,6 @@ Les commissaires aux comptes sont nommés pour six exercices sociaux ; leurs fon
 Les commissaires aux comptes sont appelés à l'occasion de toute consultation de collectivité des Associés.
 
 ## ARTICLE 18 --- REPRESENTATION SOCIALE
-
 Les dispositions ci-après s'appliquent lorsque la règlementation exige que la Société institue un Comité d'entreprise.
 
 Les délégués du Comité d'Entreprise exercent auprès du Président les droits définis par les articles [L. 2323-62 à L. 2323-67](http://legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006195707&cidTexte=LEGITEXT000006072050) du Code du travail.
@@ -460,9 +421,7 @@ Les demandes d'inscription des projets de résolution présentées par le Comit�
 Le Comité d'entreprise doit être informé des décisions collectives dans les mêmes conditions que les Associés.
 
 ## ARTICLE 19 --- DECISIONS DES ASSOCIES
-
 ### 19.1. Décisions collectives
-
 Les Associés délibérant collectivement sont seuls compétents pour prendre les décisions suivantes :
 
 - Nomination, renouvellement et révocation du Président de la société ;
@@ -485,7 +444,6 @@ Toute autre décision relève de la compétence du Président, sauf dans les cas
 Les décisions des associés résultent, au choix de l'auteur de la convocation d'un vote par écrit ou d'une assemblée générale selon les modalités ci-dessous.
 
 ### 19.2. Modes de consultation
-
 Sauf les cas prévus ci-avant, les décisions collectives des Associés sont prises, au choix du Président, soit en assemblée générale réunie au siège social ou en tout autre lieu indiqué sur la convocation, soit par consultation par tous procédés de communication écrite y compris par courrier électronique, soit par téléconférence téléphonique ou audiovisuelle. Elles peuvent aussi s'exprimer dans un acte authentique ou sous seings privés. Tous moyens de communication peuvent être utilisés dans l'expression des décisions.
 
 Quel qu'en soit le mode, toute consultation de la collectivité des Associés doit faire l'objet d'une information préalable comprenant l'ordre du jour, le texte des résolutions et tous documents et informations leur permettant de se prononcer en connaissance de cause sur la ou les résolutions présentées à leur approbation. Cette information doit faire l'objet d'une communication intervenant huit jours au moins avant la date de la consultation.
@@ -493,7 +451,6 @@ Quel qu'en soit le mode, toute consultation de la collectivité des Associés do
 Les décisions prises conformément à la loi et aux statuts obligent tous les Associés même absents, dissidents ou incapables.
 
 ### 19.3. Nature des décisions
-
 Les décisions collectives des Associés sont qualifiées d'ordinaires ou d'extraordinaires.
 
 Les décisions ordinaires sont celles qui ne modifient pas les statuts.
@@ -501,7 +458,6 @@ Les décisions ordinaires sont celles qui ne modifient pas les statuts.
 Les décisions extraordinaires sont seules à pouvoir modifier les statuts dans toutes leurs dispositions. Elles ne peuvent, toutefois, augmenter les engagements des Associés sous réserve des opérations résultant d'un regroupement d'actions régulièrement effectué.
 
 ### 19.4. Convocation --- Réunion --- Représentation
-
 Les consultations de la collectivité des Associés sont provoquées par le Président ou, en cas de carence du Président, par un mandataire désigné en justice.
 
 En outre, le commissaire aux comptes, s'il en existe, peut, à toute époque, provoquer une consultation de la collectivité des Associés.
@@ -519,7 +475,6 @@ Les Associés peuvent se faire représenter aux délibérations de l'assemblée 
 Chaque mandataire peut disposer d'un nombre illimité de mandats. Les mandats peuvent être donnés par tous procédés de communication écrite. En cas de contestation sur la validité du mandat conféré, la charge de la preuve incombe à celui qui se prévaut de l'irrégularité du mandat.
 
 ### 19.5. Consultation écrite et consultation par téléconférence
-
 En cas de consultation écrite, le Président doit adresser à chacun des Associés par tout moyen de communication, y compris par courrier électronique, un formulaire de vote, en deux exemplaires, portant les mentions suivantes :
 
 - Sa date d'envoi aux Associés ;
@@ -551,7 +506,6 @@ Le Président en adresse immédiatement un exemplaire par télécopie ou tout au
 Le Commissaire aux comptes, s'il en existe, est tenu informé des décisions arrêtées par les associés.
 
 ### 19.6. Majorités
-
 Sauf dispositions contraires de la loi ou des statuts, les décisions collectives sont adoptées :
 
 - à la majorité des 2/3 du capital et des droits de vote pour toutes décisions extraordinaires,
@@ -561,13 +515,11 @@ Sauf dispositions contraires de la loi ou des statuts, les décisions collective
 Toute décision, y compris de transformation, ayant pour effet d'augmenter les engagements d'un ou plusieurs Associés, ne peut être prise qu'à l'unanimité d'entre eux.
 
 ### 19.7. Tenue des registres
-
 Les décisions collectives des Associés, quel qu'en soit leur mode, sont constatées par des procès-verbaux établis sur un registre spécial, ou sur des feuillets mobiles numérotés. Ce registre ou ces feuillets mobiles sont tenus au siège de la société. Ils sont signés le jour même de la consultation par le Président de séance. Les procès-verbaux devront indiquer le mode, le lieu et la date de la consultation, les documents et rapports soumis à discussion, un exposé des débats ainsi que le texte des résolutions et sous chaque résolution le résultat du vote.
 
 Les copies ou extraits des procès-verbaux des décisions collectives sont valablement certifiés par le Président, ou un fondé de pouvoir habilité à cet effet.
 
 ## ARTICLE 20 --- DROIT D'INFORMATION PERMANENT
-
 Chaque Associé a le droit, à toute époque, de prendre connaissance ou copie au siège social des statuts à jour de la Société ainsi que des documents ci-après concernant les trois derniers exercices sociaux :
 
 - liste des Associés avec le nombre d'actions dont chacun d'eux est titulaire et, le cas échéant, le nombre de droits de vote attachés à ces actions ;
@@ -578,7 +530,6 @@ Chaque Associé a le droit, à toute époque, de prendre connaissance ou copie a
 - les conventions portant sur les opérations courantes et conclues à des conditions normales.
 
 ## ARTICLE 21 --- MODIFICATIONS DANS LE CONTROLE D'UN ASSOCIE
-
 Tous les Associés personnes morales doivent notifier à la Société toutes informations sur le montant de leur capital social, sa répartition ainsi que l'identité de leurs Associés. Lorsqu'un ou plusieurs de ces Associés sont eux-mêmes des personnes morales, la notification doit contenir la répartition du capital de ces personnes morales et l'indication de la ou des personnes ayant le contrôle ultime de la Société associée.
 
 En cas de modification au sens de l'article [L. 233-3](http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000005634379&idArticle=LEGIARTI000006229187) du Code de commerce du contrôle d'une Société associée, celle-ci doit en informer la Société par lettre recommandée avec demande d'avis de réception adressée au Président dans un délai de quinze jours de sa prise d'effet à l'égard des tiers.
@@ -592,7 +543,6 @@ Les dispositions du présent article s'appliquent dans les mêmes conditions à 
 La présente clause ne peut être annulée ou modifiée qu'à l'unanimité des Associés.
 
 ## ARTICLE 22 --- EXCLUSION D'UN ASSOCIE
-
 L'exclusion d'un Associé peut être prononcée dans les cas suivants :
 
 - défaut manifeste d'affectio societatis ;
@@ -636,11 +586,9 @@ Les dispositions du présent article s'appliquent dans les mêmes conditions à 
 La présente clause ne peut être annulée ou modifiée qu'à l'unanimité des Associés.
 
 ## ARTICLE 23 --- EXERCICE SOCIAL
-
 L'année sociale est définie ci-dessus à l’[article 5](#art5).
 
 ## ARTICLE 24 --- INVENTAIRE --- COMPTES ANNUELS
-
 Il est tenu une comptabilité régulière des opérations sociales, conformément à la loi.
 
 A la clôture de chaque exercice, le Président dresse l'inventaire des divers éléments de l'actif et du passif existant à cette date.
@@ -656,7 +604,6 @@ Tous ces documents sont mis à la disposition du commissaire aux comptes de la S
 La collectivité des Associés, délibérant dans les conditions fixées pour les décisions ordinaires, doit statuer sur les comptes de l'exercice écoulé dans les neuf mois suivant la clôture de l'exercice, étant précisé que la distribution des dividendes doit impérativement intervenir dans ce délai. En cas de prolongation, le délai pour statuer sur les comptes de l'exercice écoulé sera fixé par décision de justice.
 
 ## ARTICLE 25 --- AFFECTATION ET REPARTITION DU RESULTAT
-
 Le compte de résultat qui récapitule les produits et charges de l'exercice fait apparaître par différence, après déduction des amortissements et des provisions, le bénéfice ou la perte de l'exercice clos.
 
 Sur le bénéfice de l'exercice diminué, le cas échéant, des pertes antérieures, il est prélevé cinq pour cent au moins pour constituer le fonds de réserve légale. Ce prélèvement cesse d'être obligatoire lorsque le fonds de réserve atteint le dixième du capital social ; il reprend son cours lorsque, pour une cause quelconque, la réserve légale est descendue au-dessous de ce dixième.
@@ -670,7 +617,6 @@ Hors le cas de réduction du capital, aucune distribution ne peut être faite au
 Les pertes, s'il en existe, sont après l'approbation des comptes par la collectivité des Associés, reportées à nouveau, pour être imputées sur les bénéfices des exercices ultérieurs jusqu'à extinction.
 
 ## ARTICLE 26 --- PAIEMENT DES DIVIDENDES --- ACOMPTES
-
 Lorsqu'un bilan établi au cours ou à la fin de l'exercice et certifié par un commissaire aux comptes fait apparaître que la Société, depuis la clôture de l'exercice précédent, après constitution des amortissements et provisions nécessaires et déduction faite s'il y a lieu des pertes antérieures ainsi que des sommes à porter en réserve, en application de la loi ou des statuts, a réalisé un bénéfice, il peut être distribué sur décision du Président des acomptes sur dividende avant l'approbation des comptes de l'exercice. Le montant de ces acomptes ne peut excéder le montant du bénéfice ainsi défini.
 
 Les modalités de mise en paiement des dividendes en numéraire sont fixées par décision collective des Associés délibérant dans les conditions fixées pour les décisions ordinaires ou à défaut par le Président. La mise en paiement des dividendes en numéraire doit avoir lieu dans un délai maximal de neuf mois après la clôture de l'exercice, sauf prolongation de ce délai par autorisation de justice. Les dividendes des actions sont payés sur présentation de l'attestation d'inscription en compte.
@@ -684,7 +630,6 @@ La demande de paiement du dividende en actions doit intervenir dans un délai fi
 Aucune répétition de dividende ne peut être exigée des Associés sauf lorsque la distribution a été effectuée en violation des dispositions légales et que la Société établit que les bénéficiaires avaient connaissance du caractère irrégulier de cette distribution au moment de celle-ci ou ne pouvaient l'ignorer compte tenu des circonstances. Le cas échéant, l'action en répétition est prescrite trois ans après la mise en paiement de ces dividendes. Les dividendes non réclamés dans les cinq ans de leur mise en paiement sont prescrits.
 
 ## ARTICLE 27 --- CAPITAUX PROPRES INFERIEURS A LA MOITIE DU CAPITAL SOCIAL
-
 Si, du fait des pertes constatées dans les documents comptables, les capitaux propres de la Société deviennent inférieurs à la moitié du capital social, le Président doit, dans les six mois qui suivent l'approbation des comptes ayant fait apparaître ces pertes, consulter la collectivité des Associés, à l'effet de décider s'il y a lieu à dissolution anticipée de la Société.
 
 Il y aurait lieu à dissolution de la Société, si la résolution soumise au vote des Associés tendant à la poursuite des activités sociales ne recevait pas l'approbation de la collectivité des Associés statuant dans les conditions prévues pour les décisions extraordinaires.
@@ -698,7 +643,6 @@ En cas d'inobservation de ces prescriptions, tout intéressé peut demander en j
 Il n'y a pas lieu à dissolution ou à réduction de capital si, dans le délai ci-dessus précisé, les capitaux propres viennent à être reconstitués pour une valeur supérieure à la moitié du capital social.
 
 ## ARTICLE 28 --- TRANSFORMATION DE LA SOCIETE
-
 La Société peut se transformer en Société d'une autre forme si, au moment de la transformation, elle a au moins deux ans d'existence et si elle a établi et fait approuver par les Associés le bilan de ses deux premiers exercices.
 
 La décision de transformation est prise sur le rapport du commissaire aux comptes de la Société, lequel doit attester que les capitaux propres sont au moins égaux au capital social.
@@ -712,7 +656,6 @@ La transformation en Société à responsabilité limitée est décidée dans le
 La transformation en Société anonyme est prise sur le rapport d'un commissaire à la transformation chargé d'apprécier la valeur des biens composant l'actif social et, s'il en existe, les avantages particuliers consentis à des Associés ou à des tiers.
 
 ## ARTICLE 29 --- DISSOLUTION --- LIQUIDATION
-
 La Société est dissoute à l'expiration du terme fixé par les statuts, sauf prorogation, ou par décision des Associés délibérant collectivement dans les conditions fixées pour les décisions extraordinaires.
 
 Aux termes de l'article [L. 227-4](http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074069&idArticle=LEGIARTI000006796917) du Code de commerce, en cas de réunion en une seule main de toutes les actions de la société, les dispositions de l'article [1844-5](http://legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006444162) du Code civil relatives à la dissolution judiciaire ne sont pas applicables.
@@ -730,11 +673,9 @@ Les Associés sont consultés collectivement en fin de liquidation pour statuer 
 Le produit net de la liquidation, après remboursement à chacun des Associés du montant nominal et non amorti de leurs actions, est réparti entre les Associés en proportion de leur participation dans le capital social sous réserve de l'application des éventuelles dispositions du pacte d'associés.
 
 ## ARTICLE 30 --- CONTESTATIONS
-
 Toutes les contestations qui pourraient s'élever pendant la durée de la Société ou lors de sa liquidation, soit entre la Société et les Associés titulaires de ses actions, soit entre les Associés titulaires d'actions eux-mêmes, concernant les affaires sociales, l'interprétation ou l'exécution des présents statuts, seront jugées conformément à la loi et soumises à la juridiction des tribunaux compétents du siège social.
 
 ## ARTICLE 31 --- NOMINATION DES DIRIGEANTS
-
 **Le premier Président de la Société**, nommé sans limitation de durée aux termes des présents statuts, est :
 
 **Monsieur / Madame** **[nom]**
@@ -760,7 +701,6 @@ Demeurant **[adresse]**
 lequel déclare accepter les fonctions qui viennent de lui être conférées et satisfaire à toutes les conditions requises par la Loi et les règlements pour leur exercice.
 
 ## ARTICLE 32 --- FORMALITES DE PUBLICITE --- IMMATRICULATION
-
 Tous pouvoirs sont conférés au porteur d'un original des présentes à l'effet d'accomplir les formalités de publicité, de dépôt et autres nécessaires pour parvenir à l'immatriculation de la Société au registre du commerce et des Sociétés.
 
 Fait à **[lieu]** en **[nombre]** originaux
@@ -771,9 +711,7 @@ Le **[date]**
 | **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** « Bon pour acceptation des fonctions de Président » | **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** « Bon pour acceptation des fonctions de Directeur Général » |
 
 # ANNEXE I
-
 ## ETAT DES ACTES ACCOMPLIS POUR LE COMPTE DE LA SOCIETE EN FORMATION AVANT LA SIGNATURE DES STATUTS
-
 - Ouverture d'un compte bancaire auprès de la Banque **[nom]**, agence sise **[adresse]** ;
 
 - Dépôt par **[nom]** de la marque française **[nom]**, le **[date]**, auprès de l'INPI, pour un montant de **[montant]** euros TTC ;
@@ -783,7 +721,6 @@ Le **[date]**
 - Etc.
 
 ## SOUSCRIPTEURS
-
 | ASSOCIES | ACTIONS SOUSCRITES | VALEUR NOMINALE | VERSEMENTS A LA SOUSCRIPTION | Signature |
 |:-:|:-:|:-:|:-:|:-:|
 | | | **[•]** euro | **[•]** euros | |
